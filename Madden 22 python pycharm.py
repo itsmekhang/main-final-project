@@ -24,7 +24,7 @@ def nay():
 def greet_menu():
     """greeting menu to pick if the user want to enter the program"""
     print("1. Yes,I'm all in")
-    print("2. No,I'm too scared...")
+    print("2. No, I'm too scared...")
 
 
 def first_menu():
